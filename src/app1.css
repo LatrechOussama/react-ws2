@@ -1,0 +1,33 @@
+.Name
+{
+    width: 100%;
+    height: 70px;
+    margin-top: 0px;
+    background-color: black;
+}
+
+.Imagee{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.A {
+    
+        width: 1500%;
+        background-color: rgb(61, 96, 148);
+        margin-top: 1px;
+        justify-content: center;
+        margin-right: -20px;
+        height: 50px;
+}
+.videoo{
+    margin-top: 35%;
+    
+    margin-left: 20px;}
+    .logoo{
+        margin-top:00px;
+        width: 60px;
+        height: 60px;
+    }
+  
